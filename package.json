@@ -9,7 +9,8 @@
   "author": "Rafael de Oliveira",
   "license": "ISC",
   "dependencies": {
-    "google-searcher": "^1.0.0",
+    "download-file": "^0.1.5",
+    "google-search-scraper": "^0.1.0",
     "sanitize-filename": "^1.6.1",
     "yargs": "^13.2.2"
   }
